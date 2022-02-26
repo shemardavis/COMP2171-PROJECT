@@ -1,5 +1,6 @@
 # COM2171-PROJECT
 MISS MAMA'S SHOP INVENTORY SYSTEM
+MON 2-4 GROUP4 MEMBAERS: Mario Munroe | Krystan Ramcharan | Shemar Davis | Rojre Byfield | Kejhawn Brown | Ikobi Lynch 
 
 Miss Mama’s Shop is a corner shop that serves a small community in Kingston, Jamaica. The owner, Tanisha Griffiths stocks and sells snacks, beverages, perishable and non-perishable food items as well as household products. Currently, the shop’s stock-taking is done by recording the items and their respective prices in a notebook.
 With there being no formal inventory system in place, physical records get damaged or lost and goods are often over or under stocked as human errors are frequently made in stock estimation. The owner suffers a loss as the overstocked goods are prone to  spoil before being sold, hence she reduces the price of items to increase sales and move overstocked goods off the shelves, therefore minimizing profit. The shop’s stock-taking process is inefficient and as such inventory management software is necessary to help the owner to stop suffering a loss or missing out on sales due to this issue. The scope or main execution of the inventory system will include: Inventory Alerts to show stock status, Inventory sales and replenishment reports, Inventory software integration with other productivity software, sales and stock List management.
