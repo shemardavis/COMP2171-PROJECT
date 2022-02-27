@@ -1,4 +1,4 @@
-# COM2171-PROJECT
+# COMP2171-PROJECT
 MISS MAMA'S SHOP INVENTORY SYSTEM
 MON 2-4 GROUP4 MEMBERS: Mario Munroe | Krystan Ramcharan | Shemar Davis | Rojre Byfield | Kejhawn Brown | Ikobi Lynch 
 
